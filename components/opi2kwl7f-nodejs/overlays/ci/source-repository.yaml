@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: opi2kwl7f-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/opi2kwl7f-nodejs
